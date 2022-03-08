@@ -1,2 +1,2 @@
-# darcula_xournalpp
+# dracula_xournalpp
 A Dracula themed  Xournalpp
